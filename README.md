@@ -16,3 +16,5 @@ To rebuild:
 	docker build .
 	
 ```
+
+This image adds python and python request for customized authentication
